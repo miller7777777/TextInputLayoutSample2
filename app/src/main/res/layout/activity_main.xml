@@ -48,7 +48,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Грузополучатель"
-            android:inputType="textCapCharacters"
+            android:inputType="textCapSentences"
             android:lines="1"
             android:maxLines="1"
             android:ellipsize="end"
