@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
         layout = (TextInputLayout) findViewById(R.id.textInputLayout);
         etSender = (EditText) findViewById(R.id.editTextName);
 
+        //В коде ничего писать не надо, все решено разметкой.
+
 
     }
 }
